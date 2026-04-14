@@ -24,7 +24,6 @@ public class RadionuclidoTest {
 
     private static final double TOLERANCIA_ACTIVIDAD  = 1e9;   // ±1 GBq
     private static final double TOLERANCIA_PORCENTAJE = 1e-4;  // ±0.01%
-    private static final double TOLERANCIA_COSTE      = 1.0;   // ±1 €
 
     private Radionuclido co60;
     private LocalDateTime fechaEntrega;
